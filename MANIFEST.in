@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+
+recursive-include softmimic_deploy *.csv *.json *.lcm *.npy *.xml *.mjcf *.urdf *.yaml *.yml *.png *.jpg *.bin *.txt
+recursive-include compliant_motion_augmentation *.csv *.json *.yaml *.yml *.png *.mp4

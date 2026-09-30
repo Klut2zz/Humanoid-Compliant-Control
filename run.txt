@@ -1,0 +1,3 @@
+source /home/noah/env_isaaclab/bin/activate
+
+export PYTHONPATH=/home/noah/mingkai/general_softmimic/softmimic_gym:/home/noah/mingkai/general_softmimic:${PYTHONPATH}
